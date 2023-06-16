@@ -1,0 +1,14 @@
+Q 3   Demonstrate the process of unboxing metacoin project andexplore the project structure by explaining the items briefly.   
+
+
+
+Mkdir MetaCoin
+Cd Metacoin 
+
+Truffle unbox MetaCoin to unbox the project 
+
+Then we have truffle compile where we can compile the project 
+Then we have have truffle migrate to migrate the project 
+Last we have truffle test where we can test the project 
+
+We can use use command code  . to open the project on Code Editor 

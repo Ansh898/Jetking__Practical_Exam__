@@ -1,0 +1,4 @@
+Q2 What is Ganache 
+
+Ganache is private etherium blockchain environment that allows u emulate the etherium blockchain so thatt u can interact with smart 
+Contracts in your own local private blockchain . 
